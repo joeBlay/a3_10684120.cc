@@ -2,7 +2,6 @@
 c++program that accepts a score and outputs the grade
 //Program to tell the grade of a score when entered in it
 #include<iostream>
-
 using namespace std;
 
 int main()
